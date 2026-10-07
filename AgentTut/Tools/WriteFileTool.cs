@@ -6,7 +6,7 @@ namespace AgentTut.Tools;
 public class WriteFileTool : ToolBase
 {
     public override string Name => "write_file";
-    public override string Description => "Write content to a file at the given path, creating directories as needed.";
+    public override string Description => "Write content to a file at the given path, creating directories as needed. Use this tool when you need to save data to a file.";
 
     public override JsonObject Parameters => new JsonObject
     {

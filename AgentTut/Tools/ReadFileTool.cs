@@ -6,7 +6,7 @@ namespace AgentTut.Tools;
 public class ReadFileTool : ToolBase
 {
     public override string Name => "read_file";
-    public override string Description => "Read the contents of a file at the given path.";
+    public override string Description => "Read the contents of a file at the given path. Use this tool when you need to access the contents of a file.";
 
     public override JsonObject Parameters => new JsonObject
     {
