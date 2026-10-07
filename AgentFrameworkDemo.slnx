@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AgentFrameworkDemo/AgentFrameworkDemo.csproj" />
+  <Project Path="AgentTut/AgentTut.csproj" Id="4d6c572a-876a-4a11-8548-62f4079b8a34" />
+  <Project Path="FirstTool/FirstTool.csproj" Id="847845ca-84a2-48af-9045-8eb6e0afcee6" />
+  <Project Path="ToolsWithComplexParameters/ToolsWithComplexParameters.csproj" Id="39c0178a-f3b0-460b-9cd1-f8fe5a33d04a" />
+</Solution>
